@@ -1,10 +1,21 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# ✅️Projeto Testing Library!📚️
+
+## Descrição do Projeto
+
+Projeto realizado no modulo de front-end para apreender e praticar a realização da construção de test automatizados para React.
+
+---
+
+## Minha experiencia em desenvolver o projeto
+
+O projeto muito legal de se fazer, apreender a construir um test me mostrou não somente a importancia de realizar os testes para evitar bugs, mas também ajuda a garantir uma refatoração mais segura
+
+---
+
+## Arquivos desenvolvidor por mim
+
+*Arquivos da Pasta Tests
+
+---
+
+<strong>Desenvolvido por Emerson Florencio</strong>
